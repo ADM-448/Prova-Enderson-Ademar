@@ -38,6 +38,7 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 | # | Ferramenta / Link | O que foi consultado | Onde aparece no entregável |
 | 1 | Antigravity / Gemini IA | Dúvidas de configuração de Dockerfile, entrypoint com SQLite e Laravel | Dockerfile e Controllers |
+| 1 | https://share.gemini.google/wqERUDWw1OmQ | Dúvidas de arquitetura do Containerfile, entrypoint com SQLite e lógica do controller | Containerfile, entrypoint.sh e SenhaController.php |
 
 
 
@@ -50,6 +51,7 @@ está declarado acima, e que consigo explicar qualquer trecho entregue — tenha
 ele vindo da minha cabeça, de um site ou de uma IA consultada.
 
 **Nome / RA:**
+Ademar de Araújo Teisen / 23182969-2
 
 [^transparencia]: Este arquivo é, ele mesmo, um exemplo de markdown bem
     usado: *alert* para a regra crítica, tabelas para os registros e *footnote*
