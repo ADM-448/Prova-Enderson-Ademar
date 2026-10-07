@@ -9,14 +9,11 @@
 
 ## 1. Sites / documentação consultados
 
-> [!NOTE]
-> **Só contam linhas numeradas da tabela** (`| 1 | <URL> | ...`). Links em
-> texto corrido — inclusive o exemplo logo abaixo — **não são contados**
-> como fonte declarada.
-
 | # | URL | O que foi consultado | Onde aparece no entregável |
-| --- | --- | --- | --- |
-| — | | | |
+| 1 | https://laravel.com/framework/docs/12.x/controllers | Sintaxe e estrutura de controllers no Laravel | Controllers da aplicação |
+| 2 | https://coddy.tech/docs/pt/javascript/async-await | Estrutura de chamadas assíncronas em JavaScript | Frontend / Scripts |
+| 3 | https://imasters.com.br/php/como-fazer-um-crud-no-laravel-do-zero-parte-1 | Estruturação e boas práticas de CRUD no Laravel | Models, Migrations e Rotas |
+
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
@@ -37,8 +34,11 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
    dúvida, o professor pede o link e pergunta sobre o código.[^plagio]
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
-| --- | --- | --- |
-| — | | |
+## 2. Uso de IA — somente como consulta
+
+| # | Ferramenta | O que foi consultado | Onde aparece no entregável |
+| 1 | Antigravity / IA | Boas práticas de configuração de Dockerfile e entrypoint com SQLite | Dockerfile e entrypoint.sh |
+
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
