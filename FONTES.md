@@ -36,8 +36,9 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 | # | Link público da conversa | Onde o conteúdo foi usado |
 ## 2. Uso de IA — somente como consulta
 
-| # | Ferramenta | O que foi consultado | Onde aparece no entregável |
-| 1 | Antigravity / GEMINI-IA | Boas práticas de configuração de Dockerfile e entrypoint com SQLite | Dockerfile e entrypoint.sh |
+| # | Ferramenta / Link | O que foi consultado | Onde aparece no entregável |
+| 1 | Antigravity / Gemini IA | Dúvidas de configuração de Dockerfile, entrypoint com SQLite e Laravel | Dockerfile e Controllers |
+
 
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
