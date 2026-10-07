@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: ADM-448
+Nome: Ademar de Araújo Teisen
 
-RA: >>> PREENCHER <<<
+RA: >>> 23182969-2 <<<
 
 Conta GitHub: @ADM-448
 
