@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "repo": "Prova-Enderson-Ademar",
+  "repo_url": "https://github.com/ADM-448/Prova-Enderson-Ademar",
+  "exam_dir": "exams/2026/track-03-crud",
+  "track": "track-03-crud",
+  "issue": 1,
+  "issue_url": "https://github.com/ADM-448/Prova-Enderson-Ademar/issues/1",
+  "gerado_em": "2026-10-07T23:15:07+00:00",
+  "fechada_em": "2026-10-07T23:14:43Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "ADM-448",
+    "ra": null,
+    "nome": "Ademar de Araújo Teisen"
+  },
+  "variante": {
+    "slug": "Prova-Enderson-Ademar",
+    "EXAM_DIR": "exams/2026/track-03-crud",
+    "PREFIXO": "B",
+    "RAZAO_PREFERENCIAL": 3,
+    "PORTA_API": 9204
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-07T22:23:00Z",
+    "ultimo_push": "2026-10-07T20:09:40-03:00"
+  },
+  "commits": {
+    "total": 7,
+    "autores": [
+      "ADM-448"
+    ],
+    "primeiro": "2026-10-07T19:06:04-03:00",
+    "ultimo": "2026-10-07T20:09:40-03:00",
+    "fora_da_janela": 0
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 40
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 4
+  }
+}
